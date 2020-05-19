@@ -1,0 +1,13 @@
+.fs{
+  font-size: 51px;
+}
+.fs-s{
+  font-size: 18px;
+}
+.fs-m{
+  font-size: 21px;
+}
+.btn.btn-success{
+  background-color: #ff7f50;
+  border-color: #ff7f50;;
+}
